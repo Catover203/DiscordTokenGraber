@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Collections.Specialized;
 
-namespace ConsoleApp3
+namespace DiscordTokenGraber
 {
     public class Program
     {
